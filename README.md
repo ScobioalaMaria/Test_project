@@ -7,7 +7,7 @@ Our original dataset was composed only by author names and titles of books. Then
 The goal of our project is to create functions where the user have the possibility: 
 1. to write the name of the author and get all the books he/she wrote 
 2. to write a specific title of book and get all the information about it
-3. to have look for the bestseller
+3. to see which are the bestseller in the dataset
 
 ### Members: 
 - Corinne Mohideen Murgueitio 880166
